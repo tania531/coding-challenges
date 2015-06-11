@@ -57,6 +57,7 @@ var $$ = {
 
 
 $(document).ready(function() {
+  //recommend rename cloner and $$
   $$.readData();
   $$.cloner();
   $$.eventHandler();
